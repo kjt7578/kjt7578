@@ -1,6 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?color=89a5ea&height=200&type=waving&text=Hello%World!&animation=fadeIn&fontColor=4285F4&fontSize=60&fontAlign=75)
 
-![JT's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjt7578&show_icons=true&theme=radical)
 
 <!--
 **kjt7578/kjt7578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
